@@ -1,5 +1,5 @@
 # parserPy
-It's a simple parser in Python to use in .dll or .exe file!
+It's a simple parser in Python to use in .dll or .exe file. This write a parser.txt with content.
 
 ## requirements
 ```bash 
