@@ -2,7 +2,7 @@
 import argparse, pereader
 
 arg = argparse.ArgumentParser()
-arg.add_argument("-f", dest="path", help="Complete path to archive")
+arg.add_argument("-f", dest="path", help="Complete path to file")
 args = arg.parse_args()
 
 pe = pereader.PE(args.path)
